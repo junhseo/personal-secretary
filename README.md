@@ -91,4 +91,15 @@ personal-work-organizer/
 ```bash
 git clone https://github.com/your-username/personal-work-organizer.git
 cd personal-work-organizer
+```
+
+### 2. Create environment
+```
+conda create -n work-organizer python=3.10
+conda activate work-organizer
+```
+### 3. Install dependencies
+```
+pip install -r requirements.txt
+```
 
