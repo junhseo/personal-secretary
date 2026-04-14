@@ -56,3 +56,36 @@ This is a **Minimum Viable Product (MVP)**.
 ---
 
 ## 🧱 Architecture (Simple & Local)
+[ Streamlit App ]
+│
+├── task_manager.py
+├── recommender.py
+└── tasks.json (local storage)
+
+
+- No backend server
+- No external database
+- No paid API required
+
+---
+
+## 🗂️ Project Structure
+personal-work-organizer/
+│
+├── app.py # Streamlit UI
+├── task_manager.py # Task CRUD + JSON handling
+├── recommender.py # Task prioritization logic
+├── utils.py # Helper functions
+├── tasks.json # Local task storage
+├── requirements.txt
+└── README.md
+---
+
+## ⚙️ Installation
+
+### 1. Clone repository
+
+```bash
+git clone https://github.com/your-username/personal-work-organizer.git
+cd personal-work-organizer
+
