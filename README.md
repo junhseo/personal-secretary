@@ -56,6 +56,7 @@ This is a **Minimum Viable Product (MVP)**.
 ---
 
 ## 🧱 Architecture (Simple & Local)
+```
 [ Streamlit App ]
 │
 ├── task_manager.py
@@ -70,6 +71,7 @@ This is a **Minimum Viable Product (MVP)**.
 ---
 
 ## 🗂️ Project Structure
+```
 personal-work-organizer/
 │
 ├── app.py # Streamlit UI
