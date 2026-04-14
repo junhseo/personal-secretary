@@ -62,7 +62,7 @@ This is a **Minimum Viable Product (MVP)**.
 ├── task_manager.py
 ├── recommender.py
 └── tasks.json (local storage)
-
+```
 
 - No backend server
 - No external database
@@ -81,6 +81,7 @@ personal-work-organizer/
 ├── tasks.json # Local task storage
 ├── requirements.txt
 └── README.md
+```
 ---
 
 ## ⚙️ Installation
