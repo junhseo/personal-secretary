@@ -103,3 +103,28 @@ conda activate work-organizer
 pip install -r requirements.txt
 ```
 
+## ▶️ Ruin the app
+```bash
+streamlit run app.py
+```
+The app will open in your browser.
+
+## 📁 Data Storage
+All tasks are stored locally in:
+
+tasks.json
+
+Example structure:
+
+* id: task-001
+* title: Revise manuscript
+* type: progressive
+* status: in_progress
+* priority: 3
+* due_date: 2026-04-20
+* category: research
+* progress: 40
+* archived: false
+
+
+## 
